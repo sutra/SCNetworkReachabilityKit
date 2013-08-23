@@ -676,7 +676,7 @@
 				GCC_PREFIX_HEADER = "SCNetworkReachability/SCNetworkReachability-Prefix.pch";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = SCNetworkReachabilityKit;
-				PUBLIC_HEADERS_FOLDER_PATH = "/include/$(PROJECT_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PROJECT_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
@@ -691,7 +691,7 @@
 				GCC_PREFIX_HEADER = "SCNetworkReachability/SCNetworkReachability-Prefix.pch";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = SCNetworkReachabilityKit;
-				PUBLIC_HEADERS_FOLDER_PATH = "/include/$(PROJECT_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PROJECT_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				VALIDATE_PRODUCT = YES;
